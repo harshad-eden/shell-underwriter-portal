@@ -1,6 +1,5 @@
 import React from 'react';
 import { Routes, Route } from 'react-router-dom';
-import { Card, CardHeader, CardTitle, CardContent, Button } from '@insurance/shared-ui';
 import Dashboard from './components/Dashboard';
 import RiskAssessments from './components/RiskAssessments';
 import PendingApprovals from './components/PendingApprovals';
